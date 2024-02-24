@@ -1,6 +1,6 @@
-# STREET ART HUNTERZ
+# STREET ART HUNTERZ 👾
 
-## Mapping street art works in the city
+## Mapping street art works in the city 💫
 
 ### > stack
 <p align="left">
