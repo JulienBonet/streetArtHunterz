@@ -112,19 +112,6 @@ const updateWorkLocalisation = async (req, res, next) => {
   }
 };
 
-// const updateArtistInAW = async (req, res, next) => {
-//   try {
-//     const { Artist_id, Work_id } = req.body;
-
-//     await artistModel.updateArtistInArtistWork(Artist_id, Work_id);
-
-//     res.sendStatus(204);
-//     console.info(Artist_id, Work_id);
-//   } catch (error) {
-//     next(error);
-//   }
-// };
-
 const updateArtistInAW = async (req, res, next) => {
   try {
     const { pseudo, Work_id } = req.body;

@@ -16,7 +16,6 @@ import MonkeyEmpty from "../../assets/images/img/monkey03.png";
 
 function AdminProfil() {
   const { user } = useContext(AuthContext);
-
   const [workById, setWorkById] = useState([]);
   const [worksData, setWorkData] = useState([]);
   const [newPassword, setNewPassword] = useState("");
@@ -159,7 +158,7 @@ function AdminProfil() {
   };
 
   // Toggle Admin feature //
-  const [activeComponent, setActiveComponent] = useState("usersList");
+  const [activeComponent, setActiveComponent] = useState("workValidation");
 
   const handleToggle = (id) => {
     setActiveComponent(id);

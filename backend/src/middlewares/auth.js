@@ -1,3 +1,4 @@
+/* eslint-disable consistent-return */
 const argon = require("argon2");
 const jwt = require("jsonwebtoken");
 
@@ -25,6 +26,11 @@ const hashPassword = async (req, res, next) => {
 const isAuth = async (req, res, next) => {
   try {
     const token = req.cookies["auth-token"];
+    if (!token) {
+      return res
+        .status(401)
+        .json({ message: "Authentification required. Please log in" });
+    }
     const decoded = jwt.verify(token, process.env.APP_SECRET);
     req.body.userID = decoded.id;
     req.body.admin = decoded.admin;
@@ -33,7 +39,9 @@ const isAuth = async (req, res, next) => {
     next();
   } catch (error) {
     console.error(error);
-    res.status(401).json(error.message);
+    res
+      .status(401)
+      .json({ message: "Invalid Authentification. Please log in again" });
   }
 };
 

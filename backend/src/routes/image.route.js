@@ -33,12 +33,6 @@ router.put(
   imageController.updateWorkLocalisation
 );
 router.put(
-  "/image/:id/localisation",
-  auth.isAuth,
-  auth.isAdmin,
-  imageController.updateWorkLocalisation
-);
-router.put(
   "/artist_work/:WorkId/update",
   auth.isAuth,
   auth.isAdmin,
