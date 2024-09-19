@@ -188,9 +188,9 @@
   .title_SWT_content {
     width: 100%;
   }
-  .TSW-correctgap {
+  /* .TSW-correctgap {
     margin-bottom: -1rem;
-  }
+  } */
   .title_SWT {
     color: var(--color-0);
     text-align: center;

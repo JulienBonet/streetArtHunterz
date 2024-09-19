@@ -58,7 +58,7 @@ function UserProfilHistorical() {
   const handlePageChangeDesktop = (event, pageNumber) => {
     setCurrentPageDesktop(pageNumber);
   };
-
+  console.info(currentItemsDesktop);
   // gestion Media Screen //
   const smartphoneScreen = window.matchMedia("(max-width: 770px)").matches;
   const desktopScreen = window.matchMedia("(min-width: 1440px)").matches;
