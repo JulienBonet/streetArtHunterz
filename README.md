@@ -26,12 +26,12 @@
 WATCH THE DEMO : <a href="https://youtu.be/4b8372mAEvQ?feature=shared" target="_blank">https://youtu.be/4b8372mAEvQ</a>
 
 <img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz01.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/images/for_git/Street Art Hunterz02.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/images/for_git/Street Art Hunterz03.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/images/for_git/Street Art Hunterz04.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/images/for_git/Street Art Hunterz05.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/images/for_git/Street Art Hunterz06.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/images/for_git/Street Art Hunterz07.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/images/for_git/Street Art Hunterz08.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/images/for_git/Street Art Hunterz09.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/images/for_git/Street Art Hunterz10.png" alt="Street Art Hunterz"/>
+<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz02.png" alt="Street Art Hunterz"/>
+<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz03.png" alt="Street Art Hunterz"/>
+<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz04.png" alt="Street Art Hunterz"/>
+<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz05.png" alt="Street Art Hunterz"/>
+<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz06.png" alt="Street Art Hunterz"/>
+<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz07.png" alt="Street Art Hunterz"/>
+<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz08.png" alt="Street Art Hunterz"/>
+<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz09.png" alt="Street Art Hunterz"/>
+<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz10.png" alt="Street Art Hunterz"/>
