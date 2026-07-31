@@ -25,13 +25,13 @@
 
 WATCH THE DEMO : <a href="https://youtu.be/4b8372mAEvQ?feature=shared" target="_blank">https://youtu.be/4b8372mAEvQ</a>
 
-<img src="[https://julienbonet.fr/julius_git/Street%20Art%20Hunterz01.png](https://res.cloudinary.com/upynf7jw/image/upload/v1785534503/Street_Art_Hunterz01_t0fumz.png)" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz02.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz03.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz04.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz05.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz06.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz07.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz08.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz09.png" alt="Street Art Hunterz"/>
-<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz10.png" alt="Street Art Hunterz"/>
+<img src="https://res.cloudinary.com/upynf7jw/image/upload/v1785534503/Street_Art_Hunterz01_t0fumz.png" alt="Street Art Hunterz"/>
+<img src="https://res.cloudinary.com/upynf7jw/image/upload/v1785534507/Street_Art_Hunterz02_ocpule.png" alt="Street Art Hunterz"/>
+<img src="https://res.cloudinary.com/upynf7jw/image/upload/v1785534508/Street_Art_Hunterz03_q6bgjz.png" alt="Street Art Hunterz"/>
+<img src="https://res.cloudinary.com/upynf7jw/image/upload/v1785534506/Street_Art_Hunterz04_vhkmyh.png" alt="Street Art Hunterz"/>
+<img src="https://res.cloudinary.com/upynf7jw/image/upload/v1785534503/Street_Art_Hunterz05_wkbaji.png" alt="Street Art Hunterz"/>
+<img src="https://res.cloudinary.com/upynf7jw/image/upload/v1785534506/Street_Art_Hunterz06_edutzv.png" alt="Street Art Hunterz"/>
+<img src="https://res.cloudinary.com/upynf7jw/image/upload/v1785534504/Street_Art_Hunterz07_psjkis.png" alt="Street Art Hunterz"/>
+<img src="https://res.cloudinary.com/upynf7jw/image/upload/v1785534504/Street_Art_Hunterz08_wv4wwf.png" alt="Street Art Hunterz"/>
+<img src="https://res.cloudinary.com/upynf7jw/image/upload/v1785534505/Street_Art_Hunterz09_fww185.png" alt="Street Art Hunterz"/>
+<img src="https://res.cloudinary.com/upynf7jw/image/upload/v1785534503/Street_Art_Hunterz10_s5bz2n.png" alt="Street Art Hunterz"/>
