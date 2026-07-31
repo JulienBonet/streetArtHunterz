@@ -25,7 +25,7 @@
 
 WATCH THE DEMO : <a href="https://youtu.be/4b8372mAEvQ?feature=shared" target="_blank">https://youtu.be/4b8372mAEvQ</a>
 
-<img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz01.png" alt="Street Art Hunterz"/>
+<img src="[https://julienbonet.fr/julius_git/Street%20Art%20Hunterz01.png](https://res.cloudinary.com/upynf7jw/image/upload/v1785534503/Street_Art_Hunterz01_t0fumz.png)" alt="Street Art Hunterz"/>
 <img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz02.png" alt="Street Art Hunterz"/>
 <img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz03.png" alt="Street Art Hunterz"/>
 <img src="https://julienbonet.fr/julius_git/Street%20Art%20Hunterz04.png" alt="Street Art Hunterz"/>
